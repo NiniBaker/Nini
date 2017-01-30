@@ -1,3 +1,3 @@
 # Nini
-/just a testing.
+Just a testing.
 Holle! This is Nini Baker.
